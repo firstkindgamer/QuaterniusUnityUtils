@@ -21,9 +21,9 @@ Sets Root motion node
 Goes over the imported animations and applies looping to the correct ones
 
 ## User Guide
+Select the Universal Animation Library Asset
 Go to "Tools/QuaterniousUtility/" and select "Apply import steps to Universal Animation Library"
-Select the Universal Animation Library (must be already inside the Assets folder)
-If you are on the Universal Animation Library in inspector, you need to click Apply button at the bottem.
+Click Apply at the bottem of the inspector (or click off the Animation Library and click save in dialog box)
 Done!
 
 
