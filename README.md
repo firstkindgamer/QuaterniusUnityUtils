@@ -1,6 +1,6 @@
-# Quaternious Utility Library for Unity
+# Quaternius Utility Library for Unity
 
-Helper scripts to help import some of Quaternious packs, list of utils are below
+Helper scripts to help import some of Quaternius packs, list of utils are below
 
 ## Install guide for Utils
 
